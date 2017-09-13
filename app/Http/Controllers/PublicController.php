@@ -14,9 +14,8 @@ class PublicController extends Controller
      */
     public function index()
     {
-        $contact = Contact::all();
 
-        return view('layouts.master', compact('contact'));
+        return view('layouts.master');
     }
 
     /**
@@ -36,27 +35,6 @@ class PublicController extends Controller
      * @param  \Illuminate\Http\Request  $request
      * @return \Illuminate\Http\Response
      */
-    public function storeBusiness(Request $request)
-    {
-
-        $data = $request->all();
-
-       $contact = new Contact();
-
-        $contact->first = $data['first'];
-        $contact->last = $data['last'];
-        $contact->email = $data['email'];
-        $contact->message = $data['message'];
-
-        $contact->save();
-
-
-        return redirect('/success');
-
-
-    }
-
-
 
     public function success()
 
