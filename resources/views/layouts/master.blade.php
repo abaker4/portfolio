@@ -42,7 +42,7 @@
                 <div class="one-third column">
                     <div class="expertise-block"><i class="fa fa-code yellow"></i>
                         <h4 class="title slate">Front-End</h4>
-                        <p class="summary">I design in the browser with HTML(5), CSS(3), JavaScript, JQuery and frameworks such as Bootstrap.</p>
+                        <p class="summary">I design in the browser with HTML(5), CSS(3), JavaScript, JQuery and frameworks such as Bootstrap and Bulma.</p>
                     </div>
                 </div>
                 <div class="one-third column">
@@ -58,7 +58,7 @@
     <div id="work">
         <div class="container">
             <div class="row">
-                <div class="twleve columns">
+                <div class="twelve columns">
                     <p class="intro slate">My Work</p>
                     <p class="statement gunmetal">Want to see more examples? <a href="mailto:baker.austin.c@gmail.com">Email me</a>.</p>
                 </div>
@@ -73,7 +73,7 @@
                                 <li>Company Website Remastered</li>
                                 <li>Laravel, HTML(5), CSS(3), JQuery, MySQL</li>
                             </ul>
-                            <p class="project-description">The Veil Brewing Co. is a brewery located in the Scotts Addition neighborhood in Richmond, Va. They specialize in high gravity beers, spontaneous fermentation, wild ales, and lagers.</p><a href="www.theveilbrewing.com" target="_blank" class="button button-primary">Visit Website</a>
+                            <p class="project-description">The Veil Brewing Co. is a brewery located in the Scott's Addition neighborhood in Richmond, Va. They specialize in high gravity beers, spontaneous fermentation, wild ales, and lagers.</p><a href="http://theveilbrewing.austincbaker.com" target="_blank" class="button button-primary">Visit Website</a>
                         </div>
                     </div>
                 </div>
@@ -93,7 +93,7 @@
                                 <li>UI/UX</li>
                                 <li>Wordpress Theme Customization</li>
                             </ul>
-                            <p class="project-description">IAM247 is a non-profit organization based in Charlotte, NC. Their mission is to meet the needs of at-risk youth through physical, mental and spiritual development.  </p><a href="http://iam247.com" target="_blank" class="button button-primary">Visit Website</a>
+                            <p class="project-description">IAM247 is a non-profit organization based in Charlotte, NC. Their mission is to meet the needs of at-risk youth through physical, mental and spiritual development.  </p><a href="https://www.iam247.org" target="_blank" class="button button-primary">Visit Website</a>
                         </div>
                     </div>
                 </div>
@@ -101,19 +101,19 @@
             <section class="project-testimonial">
                 <blockquote class="slate">“Quality work from a quality designer. We couldn't have asked for a better experience.”</blockquote>
                 <div class="project-testimonial-avatar"><img src="img/ben_page.jpg"></div>
-                <div class="project-testimonial-name">Ben Page, Founder, iam247</div>
+                <div class="project-testimonial-name">Ben Page, Founder, IAM247</div>
             </section>
             <section class="project-showcase">
                 <div class="row">
-                    <div class="six columns u-pull-right"><img src="img/budget.png" class="project-image"></div>
+                    <div class="six columns u-pull-right"><img src="img/cashflo.png" class="project-image"></div>
                     <div class="six columns u-pull-left">
                         <div class="project-content text-left">
-                            <h3 class="project-title">Cashout</h3>
+                            <h3 class="project-title">Cashflo</h3>
                             <ul class="project-tags">
                                 <li>Full Development Lifecycle</li>
-                                <li>Laravel, HTML(5), CSS(3), JQuery, MySQL</li>
+                                <li>Laravel, HTML(5), CSS(3),Bulma, JQuery, MySQL</li>
                             </ul>
-                            <p class="project-description"> A Web Application that rewards people for good ideas.</p><a href="" target="_blank" class="button button-primary">Visit Website</a>
+                            <p class="project-description">Cashflo is a Web App that helps users manage their daily and weekly finances through simple user data input.</p><a href="http://cashflo.austincbaker.com" target="_blank" class="button button-primary">Visit Website</a>
                         </div>
                     </div>
                 </div>
@@ -214,7 +214,7 @@
                 <div class="row">
                     <div class="twelve columns"><a href="" class="logo" style="background-image: url('');">Austin Baker| Web Developer</a>
                         <p class="made-by-me">Austin Baker &copy; est. 2017.</p>
-                        <div class="social-links"><a href="" target="_blank"><i class="fa fa-linkedin" style="margin-top: 7px;"></i></a><a href="https://github.com/abaker4" target="_blank"><i class="fa fa-github" style="margin-top: 7px;"></i></a><a href="https://facebook.com/austin.baker.79462" target="_blank"><i class="fa fa-facebook" style="margin-top: 7px;"></i></a><a href="https://www.instagram.com/acbake_21/" target="_blank"><i class="fa fa-instagram" style="margin-top: 7px;"></i></a></div>
+                        <div class="social-links"><a href="https://www.linkedin.com/in/austin-baker-58a949149/" target="_blank"><i class="fa fa-linkedin" style="margin-top: 7px;"></i></a><a href="https://github.com/abaker4" target="_blank"><i class="fa fa-github" style="margin-top: 7px;"></i></a><a href="https://facebook.com/austin.baker.79462" target="_blank"><i class="fa fa-facebook" style="margin-top: 7px;"></i></a><a href="https://www.instagram.com/acbake_21/" target="_blank"><i class="fa fa-instagram" style="margin-top: 7px;"></i></a></div>
                     </div>
                 </div>
             </div>
