@@ -72,7 +72,7 @@
                                 <li>Company Website Remastered</li>
                                 <li>Laravel, HTML(5), CSS(3), JQuery, MySQL</li>
                             </ul>
-                            <p class="project-description">The Veil Brewing Co. is a brewery located in the Scott's Addition neighborhood in Richmond, Va. They specialize in high gravity beers, spontaneous fermentation, wild ales, and lagers.</p><a href="http://theveilbrewing.austincbaker.com" target="_blank" class="button button-primary">Visit Website</a><a href="https://github.com/abaker4/The-Veil-Brewing-Project" class="button button-primary" target="_blank"><i class="fa fa-github" style="margin-top: 7px;"></i></a>
+                            <p class="project-description">The Veil Brewing Co. is a brewery located in the Scott's Addition neighborhood in Richmond, Va. They specialize in high gravity beers, spontaneous fermentation, wild ales, and lagers.</p><a href="http://theveilbrewing.austincbaker.com" target="_blank" class="button button-primary">Visit Website</a><a href="https://github.com/abaker4/The-Veil-Brewing-Project" class="button button-primary" target="_blank" style="margin-left:2rem;">Visit GitHub<i class="fa fa-github" style="margin-top: 7px; margin-left:2px;"></i></a>
                         </div>
                     </div>
                 </div>
@@ -112,7 +112,7 @@
                                 <li>Full Development Lifecycle</li>
                                 <li>Laravel, HTML(5), CSS(3),Bulma, JQuery, MySQL</li>
                             </ul>
-                            <p class="project-description">Cashflo is a Web App that helps users manage their daily and weekly finances through simple user data input.</p><a href="http://cashflo.austincbaker.com" target="_blank" class="button button-primary">Visit Website</a><a href="https://github.com/abaker4/Budget-App" class="button button-primary" target="_blank"><i class="fa fa-github" style="margin-top: 7px;"></i></a>
+                            <p class="project-description">Cashflo is a Web App that helps users manage their daily and weekly finances through simple user data input.</p><a href="http://cashflo.austincbaker.com" target="_blank" class="button button-primary">Visit Website</a><a href="https://github.com/abaker4/Budget-App" class="button button-primary" target="_blank" style="margin-left:2rem;">Visit GitHub<i class="fa fa-github" style="margin-top: 7px; margin-left: 2px;"></i></a>
                         </div>
                     </div>
                 </div>
