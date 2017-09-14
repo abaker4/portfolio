@@ -72,7 +72,7 @@
                                 <li>Company Website Remastered</li>
                                 <li>Laravel, HTML(5), CSS(3), JQuery, MySQL</li>
                             </ul>
-                            <p class="project-description">The Veil Brewing Co. is a brewery located in the Scott's Addition neighborhood in Richmond, Va. They specialize in high gravity beers, spontaneous fermentation, wild ales, and lagers.</p><a href="http://theveilbrewing.austincbaker.com" target="_blank" class="button button-primary">Visit Website</a><a href="https://github.com/abaker4/The-Veil-Brewing-Project" target="_blank"><i class="fa fa-github" style="margin-top: 7px;"></i></a>
+                            <p class="project-description">The Veil Brewing Co. is a brewery located in the Scott's Addition neighborhood in Richmond, Va. They specialize in high gravity beers, spontaneous fermentation, wild ales, and lagers.</p><a href="http://theveilbrewing.austincbaker.com" target="_blank" class="button button-primary">Visit Website</a><a href="https://github.com/abaker4/The-Veil-Brewing-Project" class="button button-primary" target="_blank"><i class="fa fa-github" style="margin-top: 7px;"></i></a>
                         </div>
                     </div>
                 </div>
@@ -112,7 +112,7 @@
                                 <li>Full Development Lifecycle</li>
                                 <li>Laravel, HTML(5), CSS(3),Bulma, JQuery, MySQL</li>
                             </ul>
-                            <p class="project-description">Cashflo is a Web App that helps users manage their daily and weekly finances through simple user data input.</p><a href="http://cashflo.austincbaker.com" target="_blank" class="button button-primary">Visit Website</a><a href="https://github.com/abaker4/Budget-App" target="_blank"><i class="fa fa-github" style="margin-top: 7px;"></i></a>
+                            <p class="project-description">Cashflo is a Web App that helps users manage their daily and weekly finances through simple user data input.</p><a href="http://cashflo.austincbaker.com" target="_blank" class="button button-primary">Visit Website</a><a href="https://github.com/abaker4/Budget-App" class="button button-primary" target="_blank"><i class="fa fa-github" style="margin-top: 7px;"></i></a>
                         </div>
                     </div>
                 </div>
@@ -154,58 +154,58 @@
                 <div class="eight columns offset-by-two columns">
                     <p class="intro slate">Want to work together?</p>
                     <div class="cd-modal-action"><a href="mailto:baker.austin.c@gmail.com" class="btn">Contact Me</a>
-                        {{--<div class="cd-modal">--}}
-                            {{--<div class="cd-modal-content">--}}
-                                {{--<!-- modal content here-->--}}
-                                {{--<div class="container">--}}
-                                    {{--<div class="row">--}}
-                                        {{--<div class="twelve columns">--}}
-                                            {{--<div class="contact-header"><a href="" class="logo"></a></div>--}}
-                                        {{--</div>--}}
-                                    {{--</div>--}}
-                                    {{--<div class="row">--}}
-                                        {{--<div class="eight columns offset-by-two columns">--}}
-                                            {{--<p class="intro white">Ok, just a few quick questions.</p>--}}
-                                            {{--<p class="statement white">After you introduce yourself and your project, I'll get it touch with you to schedule a time to chat. You should expect to hear from me in a day or so.</p>--}}
-                                        {{--</div>--}}
-                                    {{--</div>--}}
-                                    {{--<div class="form-container">--}}
+                        <div class="cd-modal">
+                            <div class="cd-modal-content">
+                                <!-- modal content here-->
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="twelve columns">
+                                            <div class="contact-header"><a href="" class="logo"></a></div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="eight columns offset-by-two columns">
+                                            <p class="intro white">Ok, just a few quick questions.</p>
+                                            <p class="statement white">After you introduce yourself and your project, I'll get it touch with you to schedule a time to chat. You should expect to hear from me in a day or so.</p>
+                                        </div>
+                                    </div>
+                                    <div class="form-container">
 
-                                        {{--<form method="POST" role="form" action="/storebusiness">--}}
+                                        <form method="POST" role="form" action="/storebusiness">
 
-                                            {{--{{csrf_field()}}--}}
+                                            {{csrf_field()}}
 
 
-                                            {{--<div class="row">--}}
-                                                {{--<div class="six columns">--}}
-                                                    {{--<input id="first" type="text" name="first" placeholder="First *"  class="u-full-width" required>--}}
-                                                {{--</div>--}}
-                                                {{--<div class="six columns">--}}
-                                                    {{--<input id="last" type="text" name="last" placeholder="Last *" class="u-full-width" required>--}}
-                                                {{--</div>--}}
-                                            {{--</div>--}}
-                                            {{--<div class="row">--}}
-                                                {{--<div class="twelve columns">--}}
-                                                    {{--<input id="email" type="email" name="email" placeholder="Email address *" class="u-full-width" required>--}}
-                                                {{--</div>--}}
-                                            {{--</div>--}}
-                                            {{--<div class="row">--}}
-                                                {{--<div class="twelve columns">--}}
-                                                    {{--<textarea id="message" name="message" placeholder="Tell me about your project... what is it? Why are you doing it? What do you hope to accomplish? How can I help? Timeline and budget details are also appreciated. *" height="50em"  class="u-full-width" required></textarea>--}}
-                                                    {{--<input type="submit" value="Submit Your Project" id="submitForm"  class="button button-ghost-white">--}}
-                                                    {{--<p class="required">* Required</p>--}}
-                                                {{--</div>--}}
-                                            {{--</div>--}}
-                                        {{--</form>--}}
-                                    {{--</div>--}}
-                                {{--</div>--}}
-                            {{--</div>--}}
-                        {{--</div>--}}
-                    {{--</div><a href="#modal" class="cd-modal-close">Close</a>--}}
-                {{--</div>--}}
-            {{--</div>--}}
-        {{--</div>--}}
-    {{--</section>--}}
+                                            <div class="row">
+                                                <div class="six columns">
+                                                    <input id="first" type="text" name="first" placeholder="First *"  class="u-full-width" required>
+                                                </div>
+                                                <div class="six columns">
+                                                    <input id="last" type="text" name="last" placeholder="Last *" class="u-full-width" required>
+                                                </div>
+                                            </div>
+                                            <div class="row">
+                                                <div class="twelve columns">
+                                                    <input id="email" type="email" name="email" placeholder="Email address *" class="u-full-width" required>
+                                                </div>
+                                            </div>
+                                            <div class="row">
+                                                <div class="twelve columns">
+                                                    <textarea id="message" name="message" placeholder="Tell me about your project... what is it? Why are you doing it? What do you hope to accomplish? How can I help? Timeline and budget details are also appreciated. *" height="50em"  class="u-full-width" required></textarea>
+                                                    <input type="submit" value="Submit Your Project" id="submitForm"  class="button button-ghost-white">
+                                                    <p class="required">* Required</p>
+                                                </div>
+                                            </div>
+                                        </form>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div><a href="#modal" class="cd-modal-close">Close</a>
+                </div>
+            </div>
+        </div>
+    </section>
     <footer>
         <div id="contact">
             <div class="container">
