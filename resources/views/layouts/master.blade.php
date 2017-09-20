@@ -17,7 +17,7 @@
         <div class="hero-container">
             <div class="hero-content"><a href="#" class="home-logo"></a>
                 <h1 class="cd-headline letters type"><span>Hi, I'm Austin. I design & build</span><br><span class="cd-words-wrapper"><b class="is-visible">Landing Pages.</b><b>Corporate Websites.</b><b>Web Apps.</b></span></h1>
-                <div><a onclick="$('#sub-footer').animatescroll({scrollSpeed:2000,easing:'easeInQuad'});" class="button button-ghost">Need help? Let's Chat</a></div>
+                <div><a onclick="$('#sub-footer').animatescroll({scrollSpeed:2000,easing:'easeInQuad'});" class="button button-ghost">Want to work together?</a></div>
                 <div class="learn-more"><a onclick="$('#me').animatescroll({scrollSpeed:1000,easing:'easeInQuint'});" >Learn more about what I do<br><i class="fa fa-chevron-down"></i></a></div>
             </div>
         </div>
