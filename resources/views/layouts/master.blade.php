@@ -17,7 +17,7 @@
         <div class="hero-container">
             <div class="hero-content"><a href="#" class="home-logo"></a>
                 <h1 class="cd-headline letters type"><span>Hi, I'm Austin. I design & build</span><br><span class="cd-words-wrapper"><b class="is-visible">Landing Pages.</b><b>Corporate Websites.</b><b>Web Apps.</b></span></h1>
-                <div><a onclick="$('#sub-footer').animatescroll({scrollSpeed:2000,easing:'easeInQuad'});" class="button button-ghost">Yes, I'm Available For Hire</a></div>
+                <div><a onclick="$('#sub-footer').animatescroll({scrollSpeed:2000,easing:'easeInQuad'});" class="button button-ghost">Need help? Let's Chat</a></div>
                 <div class="learn-more"><a onclick="$('#me').animatescroll({scrollSpeed:1000,easing:'easeInQuint'});" >Learn more about what I do<br><i class="fa fa-chevron-down"></i></a></div>
             </div>
         </div>
@@ -72,7 +72,9 @@
                                 <li>Company Website Remastered</li>
                                 <li>Laravel, HTML(5), CSS(3), JQuery, MySQL</li>
                             </ul>
-                            <p class="project-description">The Veil Brewing Co. is a brewery located in the Scott's Addition neighborhood in Richmond, Va. They specialize in high gravity beers, spontaneous fermentation, wild ales, and lagers.</p><a href="http://theveilbrewing.austincbaker.com" target="_blank" class="button button-primary">Visit Website</a><a href="https://github.com/abaker4/The-Veil-Brewing-Project" class="button button-primary" target="_blank" style="margin-left:2rem;">Visit GitHub<i class="fa fa-github" style="margin-top: 7px; margin-left:2px;"></i></a>
+                            <p class="project-description">The Veil Brewing Co. is a brewery located in the Scott's Addition neighborhood in Richmond, Va. They specialize in high gravity beers, spontaneous fermentation, wild ales, and lagers.</p>
+                            <a href="http://theveilbrewing.austincbaker.com" target="_blank" class="button button-primary">Website</a>
+                            <a href="https://github.com/abaker4/The-Veil-Brewing-Project" class="button button-primary" target="_blank" style="margin-left:2rem;">GitHub<i class="fa fa-github" style="margin-top: 7px; margin-left:2px;"></i></a>
                         </div>
                     </div>
                 </div>
@@ -92,7 +94,8 @@
                                 <li>UI/UX</li>
                                 <li>Wordpress Theme Customization</li>
                             </ul>
-                            <p class="project-description">IAM247 is a non-profit organization based in Charlotte, NC. Their mission is to meet the needs of at-risk youth through physical, mental and spiritual development. </p><a href="https://www.iam247.org" target="_blank" class="button button-primary">Visit Website</a>
+                            <p class="project-description">IAM247 is a non-profit organization based in Charlotte, NC. Their mission is to meet the needs of at-risk youth through physical, mental and spiritual development. </p>
+                            <a href="https://www.iam247.org" target="_blank" class="button button-primary">Website</a>
                         </div>
                     </div>
                 </div>
@@ -112,7 +115,9 @@
                                 <li>Full Development Lifecycle</li>
                                 <li>Laravel, HTML(5), CSS(3),Bulma, JQuery, MySQL</li>
                             </ul>
-                            <p class="project-description">Cashflo is a Web App that helps users manage their daily and weekly finances through simple user data input.</p><a href="http://cashflo.austincbaker.com" target="_blank" class="button button-primary">Visit Website</a><a href="https://github.com/abaker4/Budget-App" class="button button-primary" target="_blank" style="margin-left:2rem;">Visit GitHub<i class="fa fa-github" style="margin-top: 7px; margin-left: 2px;"></i></a>
+                            <p class="project-description">Cashflo is a Web App that helps users manage their daily and weekly finances through simple user data input.</p>
+                            <a href="http://cashflo.austincbaker.com" target="_blank" class="button button-primary">Website</a>
+                            <a href="https://github.com/abaker4/Budget-App" class="button button-primary" target="_blank" style="margin-left:2rem;">GitHub<i class="fa fa-github" style="margin-top: 7px; margin-left: 2px;"></i></a>
                         </div>
                     </div>
                 </div>
