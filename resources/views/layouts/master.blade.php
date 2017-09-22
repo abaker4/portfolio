@@ -94,7 +94,7 @@
                                 <li>UI/UX</li>
                                 <li>Wordpress Theme Customization</li>
                             </ul>
-                            <p class="project-description">IAM247 is a non-profit organization based in Charlotte, NC. Their mission is to meet the needs of at-risk youth through physical, mental and spiritual development. </p>
+                            <p class="project-description">IAM24/7 is a non-profit organization based in Charlotte, NC. Their mission is to meet the needs of at-risk youth through physical, mental and spiritual development. </p>
                             <a href="https://www.iam247.org" target="_blank" class="button button-primary">Website</a>
                         </div>
                     </div>
