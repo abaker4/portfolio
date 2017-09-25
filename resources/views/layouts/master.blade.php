@@ -124,34 +124,6 @@
             </section>
         </div>
     </div>
-    {{--<!-- Start WIP Section-->--}}
-    {{--<section id="wip">--}}
-        {{--<div class="container">--}}
-            {{--<div class="row">--}}
-                {{--<div class="eight columns offset-by-two columns">--}}
-                    {{--<p class="intro slate">Personal Projects</p>--}}
-                    {{--<p class="statement gunmetal">When I'm not freelancing, I'm working on digital products.</p>--}}
-                {{--</div>--}}
-            {{--</div>--}}
-            {{--<div class="row">--}}
-                {{--<div class="one-third column">--}}
-                    {{--<div class="expertise-block wow"><img src="images/dovetail.jpg">--}}
-                        {{--<p class="description">Dovetail is a free, open source member management app for coworking spaces I built with <a href="http://sourdoughlabs.com" target="_blank">Vince Hodges</a>. Over 1,070 coworking spaces worldwide have created accounts.</p><a href="http://dovetail.io" target="_blank" class="button button-primary">Check it out</a>--}}
-                    {{--</div>--}}
-                {{--</div>--}}
-                {{--<div class="one-third column">--}}
-                    {{--<div class="expertise-block"><img src="img/budget.png">--}}
-                        {{--<p class="description">Cashout is a A Web Application that rewards people for good ideas. It helps you to effortlessly manage your money in one place. <a href="" target="_blank">Tim Layer</a> and I are currently working on a beta release.</p><a href="" target="_blank" class="button button-primary">Check it out</a>--}}
-                    {{--</div>--}}
-                {{--</div>--}}
-                {{--<div class="one-third column">--}}
-                    {{--<div class="expertise-block"><img src="images/designlab.jpg">--}}
-                        {{--<p class="description"><a href="http://trydesignlab.com/" target="_blank">Designlab </a>is an online education platform that features project-based learning and 1-on-1 mentorship from industry experts. I mentor students in their UX Academy program.</p><a href="http://trydesignlab.com/mattfarley/" target="_blank" class="button button-primary">Check it out</a>--}}
-                    {{--</div>--}}
-                {{--</div>--}}
-            {{--</div>--}}
-        {{--</div>--}}
-    {{--</section>--}}
     <!-- Start Action Section-->
     <section id="sub-footer" class="cd-section">
         <div class="container">
