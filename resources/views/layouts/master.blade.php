@@ -64,6 +64,23 @@
             </div>
             <section class="project-showcase">
                 <div class="row">
+                    <div class="six columns u-pull-right"><img src="img/cashflo.png" class="project-image" style="width: 50%;"></div>
+                    <div class="six columns u-pull-left">
+                        <div class="project-content text-left">
+                            <h3 class="project-title">Cashflo</h3>
+                            <ul class="project-tags">
+                                <li>Full Development Lifecycle</li>
+                                <li>Laravel, HTML(5), CSS(3),Bulma, JQuery, MySQL</li>
+                            </ul>
+                            <p class="project-description">Cashflo is a Web App that helps users manage their daily and weekly finances through simple user data input.</p>
+                            <a href="http://cashfloapp.com" target="_blank" class="button button-primary">Website</a>
+                            <a href="https://github.com/abaker4/Budget-App" class="button button-primary" target="_blank" style="margin-left:2rem;">GitHub<i class="fa fa-github" style="margin-top: 7px; margin-left: 2px;"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="project-showcase">
+                <div class="row">
                     <div class="six columns u-pull-right"><img src="img/logo.png" class="project-image"></div>
                     <div class="six columns u-pull-left">
                         <div class="project-content text-left">
@@ -79,11 +96,11 @@
                     </div>
                 </div>
             </section>
-            <section class="project-testimonial">
-                <blockquote class="slate">“Austin helped refresh our brand with a unique, modern responsive website. He does great work.”</blockquote>
-                <div class="project-testimonial-avatar"><img src="img/veil_quote.png"></div>
-                <div class="project-testimonial-name">Matt Tarpey, Co-Owner, Head Brewer The Veil Brewing Co.</div>
-            </section>
+            {{--<section class="project-testimonial">--}}
+                {{--<blockquote class="slate">“Austin helped refresh our brand with a unique, modern responsive website. He does great work.”</blockquote>--}}
+                {{--<div class="project-testimonial-avatar"><img src="img/veil_quote.png"></div>--}}
+                {{--<div class="project-testimonial-name">Matt Tarpey, Co-Owner, Head Brewer The Veil Brewing Co.</div>--}}
+            {{--</section>--}}
             <section class="project-showcase">
                 <div class="row">
                     <div class="six columns u-pull-left"><img src="img/iam247.png" class="project-image" style="width: 50%;"></div>
@@ -100,28 +117,11 @@
                     </div>
                 </div>
             </section>
-            <section class="project-testimonial">
-                <blockquote class="slate">“Quality work from a quality designer. We couldn't have asked for a better experience.”</blockquote>
-                <div class="project-testimonial-avatar"><img src="img/ben_page.jpg"></div>
-                <div class="project-testimonial-name">Ben Page, Founder, IAM247</div>
-            </section>
-            <section class="project-showcase">
-                <div class="row">
-                    <div class="six columns u-pull-right"><img src="img/cashflo.png" class="project-image" style="width: 50%;"></div>
-                    <div class="six columns u-pull-left">
-                        <div class="project-content text-left">
-                            <h3 class="project-title">Cashflo</h3>
-                            <ul class="project-tags">
-                                <li>Full Development Lifecycle</li>
-                                <li>Laravel, HTML(5), CSS(3),Bulma, JQuery, MySQL</li>
-                            </ul>
-                            <p class="project-description">Cashflo is a Web App that helps users manage their daily and weekly finances through simple user data input.</p>
-                            <a href="http://cashflo.austincbaker.com" target="_blank" class="button button-primary">Website</a>
-                            <a href="https://github.com/abaker4/Budget-App" class="button button-primary" target="_blank" style="margin-left:2rem;">GitHub<i class="fa fa-github" style="margin-top: 7px; margin-left: 2px;"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </section>
+            {{--<section class="project-testimonial">--}}
+                {{--<blockquote class="slate">“Quality work from a quality designer. We couldn't have asked for a better experience.”</blockquote>--}}
+                {{--<div class="project-testimonial-avatar"><img src="img/ben_page.jpg"></div>--}}
+                {{--<div class="project-testimonial-name">Ben Page, Founder, IAM247</div>--}}
+            {{--</section>--}}
         </div>
     </div>
     <!-- Start Action Section-->
