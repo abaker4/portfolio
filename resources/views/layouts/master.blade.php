@@ -64,7 +64,7 @@
             </div>
             <section class="project-showcase">
                 <div class="row">
-                    <div class="six columns u-pull-right"><img src="img/cashflo_pic.jpg" class="project-image" style="width: 50%;"></div>
+                    <div class="six columns u-pull-right"><img src="img/cashflo_pic.png" class="project-image" style="width: 50%;"></div>
                     <div class="six columns u-pull-left">
                         <div class="project-content text-left">
                             <h3 class="project-title">Cashflo</h3>
