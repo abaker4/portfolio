@@ -90,6 +90,7 @@
                                 <li>Laravel, HTML(5), CSS(3), JQuery, MySQL</li>
                             </ul>
                             <p class="project-description">The Veil Brewing Co. is a brewery located in the Scott's Addition neighborhood in Richmond, Va. They specialize in high gravity beers, spontaneous fermentation, wild ales, and lagers.</p>
+                            <p class="project-description">Admin Tool Instructions: Navigate to /login user:admin@example.com pass:password</p>
                             <a href="http://theveilbrewing.austincbaker.com" target="_blank" class="button button-primary">Website</a>
                             <a href="https://github.com/abaker4/The-Veil-Brewing-Project" class="button button-primary" target="_blank" style="margin-left:2rem;">GitHub<i class="fa fa-github" style="margin-top: 7px; margin-left:2px;"></i></a>
                         </div>
